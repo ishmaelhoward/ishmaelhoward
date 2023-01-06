@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @ishmaelhoward
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Ishmael Howard
 
-<!---
-ishmaelhoward/ishmaelhoward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## EDUCATION
+Western Governors University Salt Lake City, UT
+Bachelor of Science in Computer Science December 2022
+
+## Relevant Courses work:
+Introduction to IT
+Computer Architecture
+Network and Security
+Information Security
+Scripting and Programming
+Web Development Foundations
+
+## TECHNICAL SKILLS
+Certifications: CompTIA Project +
+Languages:      Python, Java, SQL, HTML, CSS
+Frameworks:     Django
