@@ -1,19 +1,7 @@
 # Ishmael Howard
 A computer sciece student at WGU currently pursuing a career in Cyber Security. 
 
-## EDUCATION
-### Western Governors University 
-#### Bachelor of Science in Computer Science December 2022
 
-## Relevant Courses work:
-||
-|----------------- |
-|Introduction to IT|
-|Computer Architecture|
-|Network and Security|
-|Information Security|
-|Scripting and Programming|
-|Web Development Foundations|
 
 ## TECHNICAL SKILLS
 
