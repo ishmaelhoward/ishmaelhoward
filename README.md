@@ -1,8 +1,9 @@
 # Ishmael Howard
+A computer sciece student at WGU currently pursuing a career in Cyber Security. 
 
 ## EDUCATION
-Western Governors University Salt Lake City, UT
-Bachelor of Science in Computer Science December 2022
+- Western Governors University Salt Lake City, UT
+-- Bachelor of Science in Computer Science December 2022
 
 ## Relevant Courses work:
 ||
